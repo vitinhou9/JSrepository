@@ -33,7 +33,7 @@ function retornaNumero(numero) {
 function ehPositivo(num) {
  if(number>0)
   return (true);
-  else if (number<0)
+  else if (number=<0)
     return (false);
 }
 
